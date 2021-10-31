@@ -1,5 +1,6 @@
 dataset
 ranking_round
+rechallenge_round
 *.csv
 *.h5
 *.py
